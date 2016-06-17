@@ -2,4 +2,4 @@
 
 Thème en production
 
-(Démo)[http://www.demo.com]
+(http://www.demo.com)[Démo]
