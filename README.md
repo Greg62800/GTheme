@@ -2,4 +2,4 @@
 
 Thème en production
 
-(http://www.demo.com)[Démo]
+http://tutos.96.lt/Demo
